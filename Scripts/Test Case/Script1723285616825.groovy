@@ -17,3 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/login')
+
+WebUI.setText(findTestObject('Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Email_Email'), 'uniquetest123@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Password_Password'), 
+    '5xx1bkCcAlw=')
+
+WebUI.click(findTestObject('Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
+
+WebUI.closeBrowser()
+
