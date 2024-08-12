@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LogInTestSuite,Chrome 127.0.0.0,,,10-08-2024 19:39:38,10-08-2024 19:40:09,30.243s,FAILED
+,,,,,,,
+Test Cases/Test Case,Chrome 127.0.0.0,,,10-08-2024 19:39:39,10-08-2024 19:39:54,15.070s,FAILED
+"openBrowser("""")",Chrome 127.0.0.0,,,10-08-2024 19:39:39,10-08-2024 19:39:46,7.086s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/login"")",Chrome 127.0.0.0,,,10-08-2024 19:39:46,10-08-2024 19:39:53,6.212s,PASSED
+"setText(findTestObject(""Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Email_Email""), Email)",Chrome 127.0.0.0,,,10-08-2024 19:39:53,10-08-2024 19:39:53,0.883s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Password_Password""), Password)",Chrome 127.0.0.0,,,10-08-2024 19:39:53,10-08-2024 19:39:54,0.406s,FAILED
+,,,,,,,
+Test Cases/Test Case,Chrome 127.0.0.0,,,10-08-2024 19:39:54,10-08-2024 19:40:01,7.462s,FAILED
+"openBrowser("""")",Chrome 127.0.0.0,,,10-08-2024 19:39:54,10-08-2024 19:39:56,1.586s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/login"")",Chrome 127.0.0.0,,,10-08-2024 19:39:56,10-08-2024 19:40:01,4.992s,PASSED
+"setText(findTestObject(""Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Email_Email""), Email)",Chrome 127.0.0.0,,,10-08-2024 19:40:01,10-08-2024 19:40:01,0.680s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Password_Password""), Password)",Chrome 127.0.0.0,,,10-08-2024 19:40:01,10-08-2024 19:40:01,0.163s,FAILED
+,,,,,,,
+Test Cases/Test Case,Chrome 127.0.0.0,,,10-08-2024 19:40:01,10-08-2024 19:40:09,7.243s,FAILED
+"openBrowser("""")",Chrome 127.0.0.0,,,10-08-2024 19:40:01,10-08-2024 19:40:03,1.336s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/login"")",Chrome 127.0.0.0,,,10-08-2024 19:40:03,10-08-2024 19:40:08,5.073s,PASSED
+"setText(findTestObject(""Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Email_Email""), Email)",Chrome 127.0.0.0,,,10-08-2024 19:40:08,10-08-2024 19:40:09,0.670s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test_Log In/Page_Demo Web Shop. Login/input_Password_Password""), Password)",Chrome 127.0.0.0,,,10-08-2024 19:40:09,10-08-2024 19:40:09,0.137s,FAILED

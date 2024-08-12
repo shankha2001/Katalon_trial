@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Katalon eg" time="0.7" tests="3" failures="0" errors="0">
+   <testsuite name="Katalon eg" tests="3" failures="0" errors="0" time="0.7" skipped="0" timestamp="12-08-2024T19:35:18" hostname="ShankhadwipTalukdar - PSDLAP375" id="Test Suites/DataDrivenTest/Katalon eg">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\ShankhadwipTalukdar\\git\\Katalon_trial\\Reports\\20240812_193514\\DataDrivenTest\\Katalon eg\\20240812_193514"/>
+         <property name="logFiles" value="C:\\Users\\ShankhadwipTalukdar\\git\\Katalon_trial\\Reports\\20240812_193514\\DataDrivenTest\\Katalon eg\\20240812_193514\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ShankhadwipTalukdar - PSDLAP375"/>
+         <property name="hostAddress" value="192.168.86.12"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+      </properties>
+      <testcase name="Test Cases/Data driven test example" time="0.322" classname="Test Cases/Data driven test example" status="PASSED">
+         <system-out><![CDATA[12-08-2024T19:35:18 - [TEST_CASE][PASSED] - Test Cases/Data driven test example: Test Cases/Data driven test example
+
+12-08-2024T19:35:18 - [TEST_STEP][PASSED] - println($employee - $department): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data driven test example" time="0.025" classname="Test Cases/Data driven test example" status="PASSED">
+         <system-out><![CDATA[12-08-2024T19:35:18 - [TEST_CASE][PASSED] - Test Cases/Data driven test example: Test Cases/Data driven test example
+
+12-08-2024T19:35:18 - [TEST_STEP][PASSED] - println($employee - $department): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data driven test example" time="0.035" classname="Test Cases/Data driven test example" status="PASSED">
+         <system-out><![CDATA[12-08-2024T19:35:18 - [TEST_CASE][PASSED] - Test Cases/Data driven test example: Test Cases/Data driven test example
+
+12-08-2024T19:35:18 - [TEST_STEP][PASSED] - println($employee - $department): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-08-2024T19:35:18 - [TEST_SUITE][PASSED] - Katalon eg: Test Cases/Data driven test example]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>LogInTestSuite</name>
+   <name>Katalon eg</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>ce4fb955-40f4-4f40-aa09-85c590bb6e43</testSuiteGuid>
+   <testSuiteGuid>10a3d393-b3c8-4f2e-a48a-06fc1217488c</testSuiteGuid>
    <testCaseLink>
-      <guid>eadc390b-f08c-4dab-89d7-2cb9c88c4534</guid>
+      <guid>7f4fc2a2-aa72-48d0-a9ed-7cc47835c798</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test Case</testCaseId>
+      <testCaseId>Test Cases/Data driven test example</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>5b66cb43-3cb1-4fb0-a752-741f3392662c</id>
+         <id>4271d5e6-10a1-4ab9-8bbb-2586d57356bf</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/DatadrivenTest/LoginTest</testDataId>
+         <testDataId>Data Files/New Test Data</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>5b66cb43-3cb1-4fb0-a752-741f3392662c</testDataLinkId>
+         <testDataLinkId>4271d5e6-10a1-4ab9-8bbb-2586d57356bf</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>Email</value>
-         <variableId>83bae23e-6ce3-43e2-8e1f-807387709dd9</variableId>
+         <value>employee</value>
+         <variableId>5f4578e7-68c6-45ad-909b-71c4801ccfe6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5b66cb43-3cb1-4fb0-a752-741f3392662c</testDataLinkId>
+         <testDataLinkId>4271d5e6-10a1-4ab9-8bbb-2586d57356bf</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>Password</value>
-         <variableId>450df33b-3c13-4ff7-a585-7f507edcbb8b</variableId>
+         <value>department</value>
+         <variableId>b5d6bce9-1319-4428-b495-2892881c222e</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
