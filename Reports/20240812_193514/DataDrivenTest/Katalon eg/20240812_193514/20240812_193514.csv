@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Katalon eg,,,,12-08-2024 19:35:18,12-08-2024 19:35:18,0.700s,PASSED
+,,,,,,,
+Test Cases/Data driven test example,,From Katalon Site,,12-08-2024 19:35:18,12-08-2024 19:35:18,0.322s,PASSED
+println($employee - $department),,,,12-08-2024 19:35:18,12-08-2024 19:35:18,0.040s,PASSED
+,,,,,,,
+Test Cases/Data driven test example,,From Katalon Site,,12-08-2024 19:35:18,12-08-2024 19:35:18,0.025s,PASSED
+println($employee - $department),,,,12-08-2024 19:35:18,12-08-2024 19:35:18,0.001s,PASSED
+,,,,,,,
+Test Cases/Data driven test example,,From Katalon Site,,12-08-2024 19:35:18,12-08-2024 19:35:18,0.035s,PASSED
+println($employee - $department),,,,12-08-2024 19:35:18,12-08-2024 19:35:18,0.001s,PASSED
