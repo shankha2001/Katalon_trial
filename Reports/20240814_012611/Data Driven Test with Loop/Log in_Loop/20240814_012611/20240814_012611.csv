@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Log in_Loop,Chrome 127.0.0.0,,,14-08-2024 01:26:15,14-08-2024 01:27:33,1m - 17.956s,PASSED
+,,,,,,,
+Test Cases/Loop_Login,Chrome 127.0.0.0,,,14-08-2024 01:26:15,14-08-2024 01:26:43,28.013s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,14-08-2024 01:26:16,14-08-2024 01:26:17,1.919s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",Chrome 127.0.0.0,,,14-08-2024 01:26:17,14-08-2024 01:26:31,13.846s,PASSED
+"for ([i = 0, i < 2, (i++)])",Chrome 127.0.0.0,,,14-08-2024 01:26:31,14-08-2024 01:26:43,11.221s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,14-08-2024 01:26:43,14-08-2024 01:26:43,0.653s,PASSED
+,,,,,,,
+Test Cases/Loop_Login,Chrome 127.0.0.0,,,14-08-2024 01:26:43,14-08-2024 01:27:10,26.344s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,14-08-2024 01:26:43,14-08-2024 01:26:44,0.892s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",Chrome 127.0.0.0,,,14-08-2024 01:26:44,14-08-2024 01:26:57,13.235s,PASSED
+"for ([i = 0, i < 2, (i++)])",Chrome 127.0.0.0,,,14-08-2024 01:26:57,14-08-2024 01:27:09,11.545s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,14-08-2024 01:27:09,14-08-2024 01:27:10,0.614s,PASSED
+,,,,,,,
+Test Cases/Loop_Login,Chrome 127.0.0.0,,,14-08-2024 01:27:10,14-08-2024 01:27:33,23.322s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,14-08-2024 01:27:10,14-08-2024 01:27:10,0.854s,PASSED
+"navigateToUrl(""https://demowebshop.tricentis.com/"")",Chrome 127.0.0.0,,,14-08-2024 01:27:10,14-08-2024 01:27:21,10.506s,PASSED
+"for ([i = 0, i < 2, (i++)])",Chrome 127.0.0.0,,,14-08-2024 01:27:21,14-08-2024 01:27:32,11.299s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,14-08-2024 01:27:32,14-08-2024 01:27:33,0.642s,PASSED
