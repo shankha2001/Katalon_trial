@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Caring Connection sign up,,,,20-08-2024 23:11:58,20-08-2024 23:11:59,1.059s,FAILED
+,,,,,,,
+Test Cases/Caring Connection/Sign Up,,,,20-08-2024 23:11:58,20-08-2024 23:11:59,0.651s,FAILED
+maximizeWindow(),,,,20-08-2024 23:11:59,20-08-2024 23:11:59,0.353s,FAILED
+,,,,,,,
+Test Cases/Caring Connection/Sign Up,,,,20-08-2024 23:11:59,20-08-2024 23:11:59,0.041s,FAILED
+maximizeWindow(),,,,20-08-2024 23:11:59,20-08-2024 23:11:59,0.016s,FAILED
+,,,,,,,
+Test Cases/Caring Connection/Sign Up,,,,20-08-2024 23:11:59,20-08-2024 23:11:59,0.041s,FAILED
+maximizeWindow(),,,,20-08-2024 23:11:59,20-08-2024 23:11:59,0.014s,FAILED

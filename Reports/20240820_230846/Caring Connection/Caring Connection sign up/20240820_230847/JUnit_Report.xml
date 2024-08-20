@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Caring Connection sign up" time="92.987" tests="3" failures="0" errors="0">
+   <testsuite name="Caring Connection sign up" tests="3" failures="0" errors="0" time="92.987" skipped="0" timestamp="20-08-2024T23:08:52" hostname="ShankhadwipTalukdar - PSDLAP375" id="Test Suites/Caring Connection/Caring Connection sign up">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\ShankhadwipTalukdar\\git\\Katalon_trial\\Reports\\20240820_230846\\Caring Connection\\Caring Connection sign up\\20240820_230847"/>
+         <property name="logFiles" value="C:\\Users\\ShankhadwipTalukdar\\git\\Katalon_trial\\Reports\\20240820_230846\\Caring Connection\\Caring Connection sign up\\20240820_230847\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ShankhadwipTalukdar - PSDLAP375"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="192.168.122.12"/>
+         <property name="sessionId" value="989dca6a68ced24564e3a8c53df3411d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Caring Connection/Sign Up" time="47.157" classname="Test Cases/Caring Connection/Sign Up" status="PASSED">
+         <system-out><![CDATA[20-08-2024T23:08:52 - [TEST_CASE][PASSED] - Test Cases/Caring Connection/Sign Up: Test Cases/Caring Connection/Sign Up
+
+20-08-2024T23:08:52 - [TEST_STEP][PASSED] - openBrowser("https://caring-connections-qa.azurewebsites.net/"): Browser is opened with url: 'https://caring-connections-qa.azurewebsites.net/'
+
+20-08-2024T23:08:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+20-08-2024T23:08:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+20-08-2024T23:09:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://caring-connections-qa.azurewebsites.net/'
+
+20-08-2024T23:09:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+20-08-2024T23:09:25 - [MESSAGE][PASSED] - Current window maximized
+
+20-08-2024T23:09:25 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)' is clicked on
+
+20-08-2024T23:09:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)' is clicked on
+
+20-08-2024T23:09:28 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__name"), name): Text 'Crhis Nate' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__name'
+
+20-08-2024T23:09:29 - [MESSAGE][PASSED] - Text 'Crhis Nate' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__name'
+
+20-08-2024T23:09:29 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/Zip Code"), zipcode): Text '781351' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Zip Code'
+
+20-08-2024T23:09:30 - [MESSAGE][PASSED] - Text '781351' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Zip Code'
+
+20-08-2024T23:09:30 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__username"), username): Text 'chrisnate@gmail.com' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__username'
+
+20-08-2024T23:09:30 - [MESSAGE][PASSED] - Text 'chrisnate@gmail.com' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__username'
+
+20-08-2024T23:09:30 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__password"), password): Text 'Cross@123' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__password'
+
+20-08-2024T23:09:31 - [MESSAGE][PASSED] - Text 'Cross@123' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__password'
+
+20-08-2024T23:09:31 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__role")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__role' is clicked on
+
+20-08-2024T23:09:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__role' is clicked on
+
+20-08-2024T23:09:31 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+20-08-2024T23:09:36 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+20-08-2024T23:09:36 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)' is clicked on
+
+20-08-2024T23:09:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Caring Connection/Sign Up" time="23.039" classname="Test Cases/Caring Connection/Sign Up" status="PASSED">
+         <system-out><![CDATA[20-08-2024T23:09:39 - [TEST_CASE][PASSED] - Test Cases/Caring Connection/Sign Up: Test Cases/Caring Connection/Sign Up
+
+20-08-2024T23:09:39 - [TEST_STEP][PASSED] - openBrowser("https://caring-connections-qa.azurewebsites.net/"): Browser is opened with url: 'https://caring-connections-qa.azurewebsites.net/'
+
+20-08-2024T23:09:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+20-08-2024T23:09:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+20-08-2024T23:09:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+20-08-2024T23:09:52 - [MESSAGE][PASSED] - Browser is opened with url: 'https://caring-connections-qa.azurewebsites.net/'
+
+20-08-2024T23:09:52 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+20-08-2024T23:09:52 - [MESSAGE][PASSED] - Current window maximized
+
+20-08-2024T23:09:52 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)' is clicked on
+
+20-08-2024T23:09:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)' is clicked on
+
+20-08-2024T23:09:54 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__name"), name): Text 'John Brick' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__name'
+
+20-08-2024T23:09:55 - [MESSAGE][PASSED] - Text 'John Brick' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__name'
+
+20-08-2024T23:09:55 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/Zip Code"), zipcode): Text '78144' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Zip Code'
+
+20-08-2024T23:09:55 - [MESSAGE][PASSED] - Text '78144' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Zip Code'
+
+20-08-2024T23:09:55 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__username"), username): Text 'john123@gmail.com' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__username'
+
+20-08-2024T23:09:56 - [MESSAGE][PASSED] - Text 'john123@gmail.com' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__username'
+
+20-08-2024T23:09:56 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__password"), password): Text 'Cross@323' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__password'
+
+20-08-2024T23:09:56 - [MESSAGE][PASSED] - Text 'Cross@323' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__password'
+
+20-08-2024T23:09:56 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__role")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__role' is clicked on
+
+20-08-2024T23:09:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__role' is clicked on
+
+20-08-2024T23:09:57 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+20-08-2024T23:10:02 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+20-08-2024T23:10:02 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)' is clicked on
+
+20-08-2024T23:10:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Caring Connection/Sign Up" time="22.406" classname="Test Cases/Caring Connection/Sign Up" status="PASSED">
+         <system-out><![CDATA[20-08-2024T23:10:02 - [TEST_CASE][PASSED] - Test Cases/Caring Connection/Sign Up: Test Cases/Caring Connection/Sign Up
+
+20-08-2024T23:10:02 - [TEST_STEP][PASSED] - openBrowser("https://caring-connections-qa.azurewebsites.net/"): Browser is opened with url: 'https://caring-connections-qa.azurewebsites.net/'
+
+20-08-2024T23:10:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+20-08-2024T23:10:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+20-08-2024T23:10:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+20-08-2024T23:10:11 - [MESSAGE][PASSED] - Browser is opened with url: 'https://caring-connections-qa.azurewebsites.net/'
+
+20-08-2024T23:10:11 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+20-08-2024T23:10:11 - [MESSAGE][PASSED] - Current window maximized
+
+20-08-2024T23:10:11 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)' is clicked on
+
+20-08-2024T23:10:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)' is clicked on
+
+20-08-2024T23:10:16 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__name"), name): Text 'Mase Mount' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__name'
+
+20-08-2024T23:10:17 - [MESSAGE][PASSED] - Text 'Mase Mount' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__name'
+
+20-08-2024T23:10:17 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/Zip Code"), zipcode): Text '27822' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Zip Code'
+
+20-08-2024T23:10:18 - [MESSAGE][PASSED] - Text '27822' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/Zip Code'
+
+20-08-2024T23:10:18 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__username"), username): Text 'hellomase@gmail.com' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__username'
+
+20-08-2024T23:10:18 - [MESSAGE][PASSED] - Text 'hellomase@gmail.com' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__username'
+
+20-08-2024T23:10:18 - [TEST_STEP][PASSED] - setText(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__password"), password): Text 'Cross@223' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__password'
+
+20-08-2024T23:10:19 - [MESSAGE][PASSED] - Text 'Cross@223' is set on object 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__password'
+
+20-08-2024T23:10:19 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/input__role")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__role' is clicked on
+
+20-08-2024T23:10:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/input__role' is clicked on
+
+20-08-2024T23:10:19 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+20-08-2024T23:10:24 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+20-08-2024T23:10:24 - [TEST_STEP][PASSED] - click(findTestObject("Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)")): Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)' is clicked on
+
+20-08-2024T23:10:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[20-08-2024T23:08:52 - [TEST_SUITE][PASSED] - Caring Connection sign up: Test Cases/Caring Connection/Sign Up]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

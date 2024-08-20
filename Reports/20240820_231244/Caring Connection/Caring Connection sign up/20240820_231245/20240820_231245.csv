@@ -1,0 +1,44 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Caring Connection sign up,Chrome 127.0.0.0,,,20-08-2024 23:12:48,20-08-2024 23:14:15,1m - 26.195s,PASSED
+,,,,,,,
+Test Cases/Caring Connection/Sign Up,Chrome 127.0.0.0,,,20-08-2024 23:12:49,20-08-2024 23:13:14,25.665s,PASSED
+"openBrowser(""https://caring-connections-qa.azurewebsites.net/"")",Chrome 127.0.0.0,,,20-08-2024 23:12:49,20-08-2024 23:12:59,10.034s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,20-08-2024 23:12:59,20-08-2024 23:12:59,0.087s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)""))",Chrome 127.0.0.0,,,20-08-2024 23:12:59,20-08-2024 23:13:03,3.874s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__name""), name)",Chrome 127.0.0.0,,,20-08-2024 23:13:03,20-08-2024 23:13:04,0.882s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/Zip Code""), zipcode)",Chrome 127.0.0.0,,,20-08-2024 23:13:04,20-08-2024 23:13:04,0.628s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__username""), username)",Chrome 127.0.0.0,,,20-08-2024 23:13:04,20-08-2024 23:13:05,0.625s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__password""), password)",Chrome 127.0.0.0,,,20-08-2024 23:13:05,20-08-2024 23:13:06,0.641s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__role""))",Chrome 127.0.0.0,,,20-08-2024 23:13:06,20-08-2024 23:13:06,0.538s,PASSED
+delay(3),Chrome 127.0.0.0,,,20-08-2024 23:13:06,20-08-2024 23:13:09,3.045s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)""))",Chrome 127.0.0.0,,,20-08-2024 23:13:09,20-08-2024 23:13:09,0.331s,PASSED
+delay(4),Chrome 127.0.0.0,,,20-08-2024 23:13:09,20-08-2024 23:13:13,4.014s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,20-08-2024 23:13:13,20-08-2024 23:13:14,0.720s,PASSED
+,,,,,,,
+Test Cases/Caring Connection/Sign Up,Chrome 127.0.0.0,,,20-08-2024 23:13:14,20-08-2024 23:13:50,36.116s,PASSED
+"openBrowser(""https://caring-connections-qa.azurewebsites.net/"")",Chrome 127.0.0.0,,,20-08-2024 23:13:14,20-08-2024 23:13:29,14.494s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,20-08-2024 23:13:29,20-08-2024 23:13:29,0.103s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)""))",Chrome 127.0.0.0,,,20-08-2024 23:13:29,20-08-2024 23:13:39,9.856s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__name""), name)",Chrome 127.0.0.0,,,20-08-2024 23:13:39,20-08-2024 23:13:40,0.863s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/Zip Code""), zipcode)",Chrome 127.0.0.0,,,20-08-2024 23:13:40,20-08-2024 23:13:40,0.684s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__username""), username)",Chrome 127.0.0.0,,,20-08-2024 23:13:40,20-08-2024 23:13:41,0.665s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__password""), password)",Chrome 127.0.0.0,,,20-08-2024 23:13:41,20-08-2024 23:13:42,0.737s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__role""))",Chrome 127.0.0.0,,,20-08-2024 23:13:42,20-08-2024 23:13:42,0.547s,PASSED
+delay(3),Chrome 127.0.0.0,,,20-08-2024 23:13:42,20-08-2024 23:13:45,3.016s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)""))",Chrome 127.0.0.0,,,20-08-2024 23:13:45,20-08-2024 23:13:46,0.323s,PASSED
+delay(4),Chrome 127.0.0.0,,,20-08-2024 23:13:46,20-08-2024 23:13:50,4.013s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,20-08-2024 23:13:50,20-08-2024 23:13:50,0.781s,PASSED
+,,,,,,,
+Test Cases/Caring Connection/Sign Up,Chrome 127.0.0.0,,,20-08-2024 23:13:50,20-08-2024 23:14:15,24.058s,PASSED
+"openBrowser(""https://caring-connections-qa.azurewebsites.net/"")",Chrome 127.0.0.0,,,20-08-2024 23:13:51,20-08-2024 23:14:01,10.701s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,20-08-2024 23:14:01,20-08-2024 23:14:01,0.089s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/Sign Up(1)""))",Chrome 127.0.0.0,,,20-08-2024 23:14:01,20-08-2024 23:14:03,1.688s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__name""), name)",Chrome 127.0.0.0,,,20-08-2024 23:14:03,20-08-2024 23:14:04,0.795s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/Zip Code""), zipcode)",Chrome 127.0.0.0,,,20-08-2024 23:14:04,20-08-2024 23:14:04,0.566s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__username""), username)",Chrome 127.0.0.0,,,20-08-2024 23:14:04,20-08-2024 23:14:05,0.617s,PASSED
+"setText(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__password""), password)",Chrome 127.0.0.0,,,20-08-2024 23:14:05,20-08-2024 23:14:06,0.604s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/input__role""))",Chrome 127.0.0.0,,,20-08-2024 23:14:06,20-08-2024 23:14:06,0.520s,PASSED
+delay(3),Chrome 127.0.0.0,,,20-08-2024 23:14:06,20-08-2024 23:14:09,3.014s,PASSED
+"click(findTestObject(""Caring Connection/Page_CaringConnections-v-1.19/SignUp(2)""))",Chrome 127.0.0.0,,,20-08-2024 23:14:09,20-08-2024 23:14:09,0.295s,PASSED
+delay(4),Chrome 127.0.0.0,,,20-08-2024 23:14:09,20-08-2024 23:14:13,4.012s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,20-08-2024 23:14:13,20-08-2024 23:14:15,1.126s,PASSED
