@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Caring Connection sign up</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9491a87f-b7cb-4966-865e-57dfb4660dc1</testSuiteGuid>
+   <testCaseLink>
+      <guid>84b4fc54-b3e2-4620-849b-100a4a9c533e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Caring Connection/Sign Up</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>41b29928-911e-4692-af22-a3b85cce50b3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Caring Conetion/Sign Up</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>41b29928-911e-4692-af22-a3b85cce50b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>1297e2d7-1aca-47b1-b1dc-f4c22bed4681</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41b29928-911e-4692-af22-a3b85cce50b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>zipcode</value>
+         <variableId>d04329f5-1910-4c9a-a261-26b754358ab9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41b29928-911e-4692-af22-a3b85cce50b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>9e41d5ae-5c34-4c4b-92a3-a55e7fffe5e2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41b29928-911e-4692-af22-a3b85cce50b3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>070f7188-fa35-408b-aba7-11cb6b431fb0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

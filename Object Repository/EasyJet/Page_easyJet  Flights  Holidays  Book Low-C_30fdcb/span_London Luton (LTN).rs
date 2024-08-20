@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_London Luton (LTN)</name>
+   <tag></tag>
+   <elementGuidId>d976acf9-220f-42b5-b8fd-7b755075a651</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-3']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-3 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>580b4411-bc0b-4aa5-9981-abc75a520934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>London Luton (LTN)</value>
+      <webElementGuid>6d21bb38-6cd8-42d6-90f6-80a580fc4edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-3&quot;)/span[1]</value>
+      <webElementGuid>bf0de472-46de-499b-8286-d2543ed5d8c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-3']/span</value>
+      <webElementGuid>85f13f84-ed2a-42ae-8db2-614b357be4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From:'])[1]/following::span[3]</value>
+      <webElementGuid>d83d1c31-4d44-4486-b0ba-f89053255eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One way'])[1]/following::span[3]</value>
+      <webElementGuid>3e108c73-065b-4bc6-95eb-c1cd1804eab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United Kingdom'])[1]/preceding::span[1]</value>
+      <webElementGuid>27b7c13a-b185-49e4-9990-76acc6f4f58e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='London']/parent::*</value>
+      <webElementGuid>c0ddb389-6893-4007-b837-b9bfdabafff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span</value>
+      <webElementGuid>a348a0b3-76c7-4876-aa46-e9bdb29e8df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'London Luton (LTN)' or . = 'London Luton (LTN)')]</value>
+      <webElementGuid>5a026bf8-3c16-4ffa-8158-bacb9aa3a4b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

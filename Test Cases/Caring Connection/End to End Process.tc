@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>End to End Process</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36a45e94-7b03-45bb-aa0f-2b2dc681c1f7</testCaseGuid>
+</TestCaseEntity>

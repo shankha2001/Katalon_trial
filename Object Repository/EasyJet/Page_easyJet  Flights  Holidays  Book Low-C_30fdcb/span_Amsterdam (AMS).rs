@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Amsterdam (AMS)</name>
+   <tag></tag>
+   <elementGuidId>b4b7221b-9aa9-4762-a0ca-3d2c6257a229</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-48']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-48 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>feaf2d04-0033-47c7-8f35-a247232aeded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amsterdam (AMS)</value>
+      <webElementGuid>7a18245e-64aa-4e3a-90b2-e391123e15c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-48&quot;)/span[1]</value>
+      <webElementGuid>cde8add1-24f7-4ecb-8dc5-a9750809ea9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-48']/span</value>
+      <webElementGuid>74ddff7d-5a16-4092-be25-9497d06e811e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To:'])[1]/following::span[3]</value>
+      <webElementGuid>058fc551-5af5-4f95-a0a9-90fcaca2cabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United Kingdom'])[1]/following::span[3]</value>
+      <webElementGuid>fb861522-6659-4590-aea5-8233a2113cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='sterdam (']/parent::*</value>
+      <webElementGuid>ed1de1ae-6525-4572-a72a-890211f955ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li/a/span</value>
+      <webElementGuid>9c7dbda5-1154-4070-be68-022bc56ba954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Amsterdam (AMS)' or . = 'Amsterdam (AMS)')]</value>
+      <webElementGuid>1873d219-1fcb-4a46-9360-8f1b671a5beb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
